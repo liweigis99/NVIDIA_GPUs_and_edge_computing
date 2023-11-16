@@ -1,0 +1,2 @@
+# NVIDIA_GPUs_and_edge_computing
+CUDA、TensorRT、Jetson、Edge_Computing
